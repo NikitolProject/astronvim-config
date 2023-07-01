@@ -9,5 +9,6 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  "Pocco81/auto-save.nvim"
+  "Pocco81/auto-save.nvim",
+  "jesseduffield/lazygit",
 }
